@@ -10,9 +10,9 @@ import tempfile
 def sendEmailWithScreenshot(message):
     smtp_server = "smtp.gmail.com"
     port = 587
-    sender_email = "feriellamirem@gmail.com"
-    password = "meun pqwy zjts gwqh"
-    receiver_email = "feriel.lamirem@enicar.ucar.tn"
+    sender_email = "****@gmail.com"
+    password = "******"
+    receiver_email = "****@gmail.com"
 
     context = ssl.create_default_context()
 
